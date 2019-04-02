@@ -1,0 +1,4 @@
+C:\Users\heai0\OneDrive\Desktop\hungry_ninja\obj\Debug\netcoreapp2.1\hungry_ninja.csprojAssemblyReference.cache
+C:\Users\heai0\OneDrive\Desktop\hungry_ninja\obj\Debug\netcoreapp2.1\hungry_ninja.csproj.CoreCompileInputs.cache
+C:\Users\heai0\OneDrive\Desktop\hungry_ninja\obj\Debug\netcoreapp2.1\hungry_ninja.AssemblyInfoInputs.cache
+C:\Users\heai0\OneDrive\Desktop\hungry_ninja\obj\Debug\netcoreapp2.1\hungry_ninja.AssemblyInfo.cs
